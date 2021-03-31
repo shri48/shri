@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shri48
+- 👋 Hi, I’m @shri
 - 👀 I’m interested in Data Science, Machine Learning, AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on AI Projects
